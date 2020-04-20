@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8000,
+  "expoServerNgrokUrl": "https://qg-fke.anonymous.ecommerce-app-design-master-ios.exp.direct",
+  "packagerNgrokUrl": "https://packager.qg-fke.anonymous.ecommerce-app-design-master-ios.exp.direct",
+  "ngrokPid": 16256,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
+}
